@@ -1,0 +1,17 @@
+.header {
+  padding: 8px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 650px;
+}
+
+.btn {
+  background-color: antiquewhite;
+  padding: 8px;
+  margin: 2px;
+}
